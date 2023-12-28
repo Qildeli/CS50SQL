@@ -18,43 +18,31 @@ The database consists of a single table called `episodes` with the following col
 
 ## SQL Queries
 
-1.sql List the titles of all episodes in Cyberchase’s original season, Season 1.
+- `1.sql` List the titles of all episodes in Cyberchase’s original season, Season 1.
 
-### 2.sql
-- **Objective**: List the season number and title of the first episode of every season.
+- `2.sql` List the season number and title of the first episode of every season.
 
-### 3.sql
-- **Objective**: Find the production code for the episode “Hackerized!”.
+- `3.sql` Find the production code for the episode “Hackerized!”.
 
-### 4.sql
-- **Objective**: Find the titles of episodes that do not yet have a listed topic.
+- `4.sql` Find the titles of episodes that do not yet have a listed topic.
 
-### 5.sql
-- **Objective**: Find the title of the holiday episode that aired on December 31st, 2004.
+- `5.sql` Find the title of the holiday episode that aired on December 31st, 2004.
 
-### 6.sql
-- **Objective**: List the titles of episodes from season 6 (2008) that were released early, in 2007.
+- `6.sql` List the titles of episodes from season 6 (2008) that were released early, in 2007.
 
-### 7.sql
-- **Objective**: List the titles and topics of all episodes teaching fractions.
+- `7.sql` List the titles and topics of all episodes teaching fractions.
 
-### 8.sql
-- **Objective**: Count the number of episodes released in the last 6 years, from 2018 to 2023, inclusive.
+- `8.sql` Count the number of episodes released in the last 6 years, from 2018 to 2023, inclusive.
 
-### 9.sql
-- **Objective**: Count the number of episodes released in Cyberchase’s first 6 years, from 2002 to 2007, inclusive.
+- `9.sql` Count the number of episodes released in Cyberchase’s first 6 years, from 2002 to 2007, inclusive.
 
-### 10.sql
-- **Objective**: List the ids, titles, and production codes of all episodes. Order by production code, from earliest to latest.
+- `10.sql` List the ids, titles, and production codes of all episodes. Order by production code, from earliest to latest.
 
-### 11.sql
-- **Objective**: List the titles of episodes from season 5, in reverse alphabetical order.
+- `11.sql` List the titles of episodes from season 5, in reverse alphabetical order.
 
-### 12.sql
-- **Objective**: Count the number of unique episode titles.
+- `12.sql` Count the number of unique episode titles.
 
-### 13.sql
-- **Objective**: Write a query to explore a question of your choice, involving at least one condition using WHERE with AND or OR.
+- `13.sql` Write a query to explore a question of your choice, involving at least one condition using WHERE with AND or OR.
 
 ## Running Queries
 
