@@ -18,8 +18,7 @@ The database consists of a single table called `episodes` with the following col
 
 ## SQL Queries
 
-### 1.sql
-- **Objective**: List the titles of all episodes in Cyberchase’s original season, Season 1.
+1.sql List the titles of all episodes in Cyberchase’s original season, Season 1.
 
 ### 2.sql
 - **Objective**: List the season number and title of the first episode of every season.
